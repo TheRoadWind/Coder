@@ -8,3 +8,4 @@ Release/
 *.user
 Thumbs.db
 Desktop.ini
+*.exe
